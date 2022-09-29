@@ -11,17 +11,22 @@
 <a href="https://www.chrisllones.me"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </div>
 
-<br>
 
-# What I am up to?
+## What I am up to?
 
 - 💾⌨️ Learning RStats and applying what I have learned in agricultral economics research!
 - 🖥️ Also, trying to learn some HTML and CSS. Hopefully JavaScript as well! 😊
 
+## Experiences
+- 2019 - present: Graduate student
+- 2018 - 2019: Lecturer and research assistant
+- 2016 - 2018: Research assistant
+
+
 <br>
 <br>
 
-# Github stats
+## Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-allones)](https://github.com/anuraghazra/github-readme-stats)
 
