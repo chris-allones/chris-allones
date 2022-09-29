@@ -1,7 +1,7 @@
 
 
 
-![A graduate student focusing on agricultural economics and development.](https://github.com/chris-allones/chris-allones/blob/main/photo/banner-1.jpg)
+![A graduate student focusing on agricultural economics and development.](https://github.com/chris-allones/chris-allones/blob/main/photo/banner-2.jpg)
 
 <br>
 
