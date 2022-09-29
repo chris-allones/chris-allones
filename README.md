@@ -14,7 +14,7 @@
 
 ## What I am up to?
 
-- 💾⌨️ Learning RStats and applying what I have learned in agricultral economics research!
+- 💾⌨️ Learning RStats and data vizualisation!
 - 🖥️ Also, trying to learn some HTML and CSS. Hopefully JavaScript as well! 😊
 
 ## Experiences
