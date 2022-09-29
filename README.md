@@ -14,7 +14,7 @@
 
 ## What I am up to?
 
-- 💾⌨️ Learning RStats and data vizualisation!
+- 💾⌨️ Learning RStats and data visualization!
 - 🖥️ Also, trying to learn some HTML and CSS. Hopefully JavaScript as well! 😊
 
 ## Experiences
