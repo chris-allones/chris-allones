@@ -12,7 +12,7 @@
 </div>
 
 
-## What I am up to?
+## What I'm up to?
 
 - 💾⌨️ Learning RStats and data visualization!
 - 🖥️ Also, trying to learn some HTML and CSS. Hopefully JavaScript as well! 😊
